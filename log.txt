@@ -1,0 +1,52 @@
+﻿Dia 1: 4 hs 28/7
+
+Cosas definidas:
+Color
+Tipografia
+Pie de pagina
+Barra de navegacion
+Logos
+Desplazamiento
+
+Cosas hechas:
+Logo cubo
+Logo de pestaña
+Barra de navegacion sin iconos
+Pie de pagina
+
+Otras cosas:
+Obtencion de software para amhas pc
+
+Dia 2: 3 hs 1/8
+
+Cosas definidas:
+Organizacion de los archivos y la documentacion
+Senal etica
+Imagenes que se abren
+
+Cosas hechas:
+Documentacion
+Virtualbox
+Iconos arriba con vinculo a contacto(faltan acomodar)
+Desplazamiento
+Parallax
+
+Otras cosas:
+Averiguacion de precios en paginas similares
+Averiguar Virtualbox
+
+Dia 3: 3 hs 2/8
+
+Cosas definidas:
+Rango de precio (15000-20000)
+Imagenes senal etica y pasaje de parallax
+
+Cosas hechas:
+Pasaje de parallax casi
+Descarga del iso
+Imagenes senal etica (3 img para inicio, elaboracion, reparacion, mantenimiento y garantia)
+Logo alternativo
+Seleccion de imagenes varias de camaras para fondo
+
+Otras cosas:
+Averiguacion pasar imagenes
